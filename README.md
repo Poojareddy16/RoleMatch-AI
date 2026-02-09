@@ -1,4 +1,4 @@
-# RoleMatch-AI
+# 🎯🤖 RoleMatch-AI
 An intelligent job–resume matching platform built with Go that evaluates candidate resumes against job descriptions using explainable rule-based logic, with planned integration of Gemini API and local Ollama LLMs for semantic reasoning and hybrid AI matching.
 
 ---
@@ -160,4 +160,5 @@ Built a hybrid AI-powered job–resume matching platform in Go, combining explai
 ## 📄 License
 
 MIT License
+
 

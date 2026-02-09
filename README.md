@@ -151,11 +151,13 @@ Built a hybrid AI-powered job–resume matching platform in Go, combining explai
 
 ## 📈 Project Status
 
-- Current: Rule-based matching engine (complete)
-- Next: Gemini and Ollama LLM integration (planned)
+- Current: Rule-based matching engine with integrated Ollama local LLM for reasoning and explanations (complete)
+- Next: Google Gemini API integration for cloud-based semantic matching (planned)
+
 
 ---
 
 ## 📄 License
 
 MIT License
+
